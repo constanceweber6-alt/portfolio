@@ -284,7 +284,7 @@ window.I18N = {
   "cert_list": "IBM Generative & Agentic AI Foundation（2026年）、Introduction to Management Consulting（Emory大学）、International and Cross-Cultural Negotiation（ESSEC）、Initiating and Planning Projects（UC Irvine）。",
   "vol_title": "仕事以外の活動",
   "vol_text": "ESSEC Japan（100名以上の学生向け文化イベントを企画）、フランスと日本でのロータリー講演、Secours CatholiqueやLe Camion Doucheでのボランティア。",
-  "contact_title": "お気軽にご連絡ください",
+  "contact_title": "お話ししましょう",
   "contact_lead": "パリまたは日本で、変革、チェンジマネジメント、CSRのコンサルティング職を探しています。",
   "contact_mail": "メールを送る",
   "contact_li": "LinkedIn",
