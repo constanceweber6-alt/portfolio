@@ -99,7 +99,8 @@ window.I18N = {
   "thesis_label": "Research",
   "thesis_meta": "Bachelor thesis, ESSEC Business School, 2024",
   "thesis_text": "How ESG data and metadata can make green finance more transparent and help fight greenwashing. Literature review, interviews with OECD experts and a survey of French bankers, ending with recommendations for companies and regulators.",
-  "thesis_pdf": "Read the thesis (PDF)"
+  "thesis_pdf": "Read the thesis (PDF)",
+  "thesis_article": "Read my 2026 update (in French)"
  },
  "fr": {
   "meta_title": "Constance Weber | Conduite du changement IT, PMO et transformation",
@@ -200,7 +201,8 @@ window.I18N = {
   "thesis_label": "Recherche",
   "thesis_meta": "Mémoire de bachelor, ESSEC Business School, 2024",
   "thesis_text": "Comment les données ESG et les métadonnées peuvent rendre la finance verte plus transparente et aider à lutter contre le greenwashing. Revue de littérature, entretiens avec des experts de l'OCDE et enquête auprès de banquiers français, avec des recommandations pour les entreprises et les régulateurs.",
-  "thesis_pdf": "Lire le mémoire (PDF, en anglais)"
+  "thesis_pdf": "Lire le mémoire (PDF, en anglais)",
+  "thesis_article": "Lire l'article de 2026 : ce qui a changé depuis"
  },
  "ja": {
   "meta_title": "Constance Weber｜ITチェンジマネジメント・PMO・変革",
@@ -301,7 +303,8 @@ window.I18N = {
   "thesis_label": "研究",
   "thesis_meta": "学士論文（ESSECビジネススクール、2024年）",
   "thesis_text": "ESGデータとメタデータが、グリーンファイナンスの透明性を高め、グリーンウォッシングの防止にどう役立つかを研究しました。文献調査、OECD専門家へのインタビュー、フランスの銀行関係者へのアンケートをもとに、企業と規制当局への提言をまとめています。",
-  "thesis_pdf": "論文を読む（PDF・英語）"
+  "thesis_pdf": "論文を読む（PDF・英語）",
+  "thesis_article": "2026年の振り返り記事を読む（フランス語）"
  },
  "cv": {
   "available": false,
