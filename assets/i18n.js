@@ -95,7 +95,10 @@ window.I18N = {
   "contact_mail": "Send me an email",
   "contact_li": "LinkedIn",
   "footer": "Built by Constance Weber. No cookies, no tracking.",
-  "footer_tm": "ADKAR® is a registered trademark of Prosci, Inc. The Change Barometer is an independent tool, not affiliated with Prosci."
+  "footer_tm": "ADKAR® is a registered trademark of Prosci, Inc. The Change Barometer is an independent tool, not affiliated with Prosci.",
+  "thesis_label": "Research",
+  "thesis_meta": "Bachelor thesis, ESSEC Business School, 2024",
+  "thesis_text": "How ESG data and metadata can make green finance more transparent and help fight greenwashing. Literature review, interviews with OECD experts and a survey of French bankers, ending with recommendations for companies and regulators."
  },
  "fr": {
   "meta_title": "Constance Weber | Conduite du changement IT, PMO et transformation",
@@ -192,7 +195,10 @@ window.I18N = {
   "contact_mail": "M'écrire un email",
   "contact_li": "LinkedIn",
   "footer": "Site réalisé par Constance Weber. Sans cookies, sans suivi.",
-  "footer_tm": "ADKAR® est une marque déposée de Prosci, Inc. Le Baromètre du changement est un outil indépendant, non affilié à Prosci."
+  "footer_tm": "ADKAR® est une marque déposée de Prosci, Inc. Le Baromètre du changement est un outil indépendant, non affilié à Prosci.",
+  "thesis_label": "Recherche",
+  "thesis_meta": "Mémoire de bachelor, ESSEC Business School, 2024",
+  "thesis_text": "Comment les données ESG et les métadonnées peuvent rendre la finance verte plus transparente et aider à lutter contre le greenwashing. Revue de littérature, entretiens avec des experts de l'OCDE et enquête auprès de banquiers français, avec des recommandations pour les entreprises et les régulateurs."
  },
  "ja": {
   "meta_title": "Constance Weber｜ITチェンジマネジメント・PMO・変革",
@@ -289,7 +295,10 @@ window.I18N = {
   "contact_mail": "メールを送る",
   "contact_li": "LinkedIn",
   "footer": "制作：Constance Weber。Cookieやトラッキングは使用していません。",
-  "footer_tm": "ADKAR®はProsci, Inc.の登録商標です。チェンジ・バロメーターはProsciとは関係のない独立したツールです。"
+  "footer_tm": "ADKAR®はProsci, Inc.の登録商標です。チェンジ・バロメーターはProsciとは関係のない独立したツールです。",
+  "thesis_label": "研究",
+  "thesis_meta": "学士論文（ESSECビジネススクール、2024年）",
+  "thesis_text": "ESGデータとメタデータが、グリーンファイナンスの透明性を高め、グリーンウォッシングの防止にどう役立つかを研究しました。文献調査、OECD専門家へのインタビュー、フランスの銀行関係者へのアンケートをもとに、企業と規制当局への提言をまとめています。"
  },
  "cv": {
   "available": false,

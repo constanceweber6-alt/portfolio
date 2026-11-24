@@ -148,6 +148,13 @@ html[lang="ja"] .schools b { font-family: var(--jp); font-size: 19px; }
 .vertical { position: absolute; right: 0; top: 0; writing-mode: vertical-rl; font: 900 30px/1 var(--jp); color: var(--red); letter-spacing: .12em; margin: 0 !important; opacity: .9; }
 .side > :not(.vertical) { margin-right: 56px; }
 
+/* Thesis: an index card pinned under the schools */
+.thesis { margin-top: 40px; background: var(--surface); border: 2px solid var(--ink); border-radius: 12px; padding: 24px 26px; box-shadow: 8px 8px 0 var(--pine); max-width: 640px; }
+.thesis p { margin: 0; color: var(--ink-2); font-size: 17px; }
+.thesis .thesis-label { font-weight: 700; font-size: 14px; color: var(--pine); margin-bottom: 8px; }
+.thesis .thesis-title { font: 800 26px/1.1 var(--display); letter-spacing: -0.02em; color: var(--ink); margin-bottom: 6px; }
+.thesis .thesis-meta { font-size: 15px; color: var(--muted); margin-bottom: 12px; }
+
 /* Contact */
 .contact { background: var(--blue); color: var(--paper); padding: 88px 0 96px; margin-top: 40px; }
 .giant-contact { color: var(--paper); margin: 0 0 22px; font-size: clamp(60px, 12vw, 180px); line-height: .9; }

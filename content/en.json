@@ -93,5 +93,8 @@
   "contact_mail": "Send me an email",
   "contact_li": "LinkedIn",
   "footer": "Built by Constance Weber. No cookies, no tracking.",
-  "footer_tm": "ADKAR® is a registered trademark of Prosci, Inc. The Change Barometer is an independent tool, not affiliated with Prosci."
+  "footer_tm": "ADKAR® is a registered trademark of Prosci, Inc. The Change Barometer is an independent tool, not affiliated with Prosci.",
+  "thesis_label": "Research",
+  "thesis_meta": "Bachelor thesis, ESSEC Business School, 2024",
+  "thesis_text": "How ESG data and metadata can make green finance more transparent and help fight greenwashing. Literature review, interviews with OECD experts and a survey of French bankers, ending with recommendations for companies and regulators."
 }
