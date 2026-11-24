@@ -57,4 +57,12 @@ data["cv"] = cv
     + ";\n",
     encoding="utf-8",
 )
+# Cache busting: each asset link gets a short hash of its content
+import hashlib
+page = (ROOT / "index.html").read_text(encoding="utf-8")
+for asset in ["assets/style.css", "assets/i18n.js", "assets/main.js"]:
+    h = hashlib.sha1((ROOT / asset).read_bytes()).hexdigest()[:8]
+    page = page.replace(f'"{asset}"', f'"{asset}?v={h}"')
+(ROOT / "index.html").write_text(page, encoding="utf-8")
+
 print("built index.html and assets/i18n.js", "(CV files found)" if cv["available"] else "(CV files missing: buttons hidden)")
