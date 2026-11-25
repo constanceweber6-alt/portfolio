@@ -98,5 +98,22 @@
   "thesis_meta": "Bachelor thesis, ESSEC Business School, 2024",
   "thesis_text": "How ESG data and metadata can make green finance more transparent and help fight greenwashing. Literature review, interviews with OECD experts and a survey of French bankers, ending with recommendations for companies and regulators.",
   "thesis_pdf": "Read the thesis (PDF)",
-  "thesis_article": "Read my 2026 update (in French)"
+  "thesis_article": "Read my 2026 update (in French)",
+  "tools_title": "Tools and methods",
+  "tools_lead": "The methods and tools I use day to day to run projects and lead change.",
+  "g_method": "Methods",
+  "g_pilot": "Project management",
+  "g_collab": "Collaboration and workshops",
+  "g_data": "Data and visuals",
+  "g_ai": "Generative AI",
+  "g_ref": "CSR and security standards",
+  "m1": "Project charter",
+  "m2": "Project management plan",
+  "m3": "RACI matrix",
+  "m4": "Roadmap",
+  "m5": "Milestone tracking and flash reports",
+  "m6": "Risk and opportunity register",
+  "m7": "SWOT analysis",
+  "m8": "Ishikawa diagram",
+  "m9": "ADKAR model"
 }

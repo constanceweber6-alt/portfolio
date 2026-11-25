@@ -98,5 +98,22 @@
   "thesis_meta": "Mémoire de bachelor, ESSEC Business School, 2024",
   "thesis_text": "Comment les données ESG et leurs métadonnées peuvent rendre la finance verte plus transparente et aider à lutter contre le greenwashing. Revue de littérature, entretiens avec des experts de l'OCDE et enquête auprès de banquiers français, pour aboutir à des recommandations aux entreprises et aux régulateurs.",
   "thesis_pdf": "Lire le mémoire (PDF, en anglais)",
-  "thesis_article": "Lire l'article 2026 : ce qui a changé depuis"
+  "thesis_article": "Lire l'article 2026 : ce qui a changé depuis",
+  "tools_title": "Outils et méthodes",
+  "tools_lead": "Les méthodes et les outils que j'utilise au quotidien pour piloter un projet et accompagner le changement.",
+  "g_method": "Méthodes",
+  "g_pilot": "Pilotage de projet",
+  "g_collab": "Collaboration et ateliers",
+  "g_data": "Données et visuels",
+  "g_ai": "IA générative",
+  "g_ref": "Référentiels RSE et sécurité",
+  "m1": "Charte projet",
+  "m2": "Plan de management de projet",
+  "m3": "Matrice RACI",
+  "m4": "Roadmap",
+  "m5": "Suivi des jalons et flash reports",
+  "m6": "Registre des risques et opportunités",
+  "m7": "Matrice SWOT",
+  "m8": "Diagramme d'Ishikawa",
+  "m9": "Modèle ADKAR"
 }
